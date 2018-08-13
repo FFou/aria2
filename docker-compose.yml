@@ -28,4 +28,4 @@ services:
       # - ENABLE_AUTH=true
     links:
       - nextcloud:file-manager
-      restart: always
+    restart: always

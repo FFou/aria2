@@ -29,3 +29,7 @@ services:
     links:
       - nextcloud:file-manager
     restart: always
+
+
+# http://ip:port/aria2/
+# 文件管理器 http://ip:port
